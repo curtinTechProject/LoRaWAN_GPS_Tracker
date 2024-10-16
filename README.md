@@ -1,0 +1,1 @@
+This is the code used for a Curtin Technology Project. This code is adapted from Heltec's repository (https://github.com/HelTecAutomation/Heltec_ESP32/tree/master/examples/LoRaWAN/LoRaWanGPSLocation & https://github.com/HelTecAutomation/Heltec_ESP32/tree/master/examples/LoRaWAN/LoRaWanGPSTime)
